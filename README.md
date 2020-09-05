@@ -22,7 +22,7 @@ or
 
 ```JS
 const input = document.getElementById('your-input')
-const allowOnlyIntegersGreaterThanZero = value => /\d+/g.test(value) && parseInt(value, 10) > 0
+const allowOnlyIntegersGreaterThanZero = value => /\d*/g.test(value) && parseInt(value, 10) > 0
 
 regulatio(input, allowOnlyIntegersGreaterThanZero)
 ```
