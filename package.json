@@ -1,8 +1,8 @@
 {
-  "name": "cosmopolite",
+  "name": "regulatio",
   "version": "1.0.0",
-  "description": "🤝 Make a ES Module for NPM and a dist file for <script> at the same time",
-  "repository": "git@github.com:uyouthe/cosmopolite.git",
+  "description": "🎛️ High performance regulated inputs with custom validation",
+  "repository": "git@github.com:uyouthe/regulatio.git",
   "main": "src/index.js",
   "author": "uyouthe",
   "license": "BSL-1.0",
