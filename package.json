@@ -1,6 +1,6 @@
 {
   "name": "regulatio",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "🎛️ High performance regulated inputs with custom validation",
   "repository": "git@github.com:uyouthe/regulatio.git",
   "main": "src/index.js",
