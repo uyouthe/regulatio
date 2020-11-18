@@ -13,11 +13,11 @@ It regulates <input> fields, allowing your users to enter only the values that a
 
 ## Usage
 ```
-npm install uyouthe/regulatio
+npm install mvoloskov/regulatio
 ```
 or
 ```HTML
-<script src="https://cdn.jsdelivr.net/gh/uyouthe/regulatio/dist/regulatio.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mvoloskov/regulatio/dist/regulatio.min.js"></script>
 ```
 
 ```JS
